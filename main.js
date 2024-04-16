@@ -9,3 +9,5 @@ let color = prompt ("Color_Prefer");
 let password = user + surname + color + number
 
 document.getElementById("titolo").innerHTML = password 
+
+alert (password);
